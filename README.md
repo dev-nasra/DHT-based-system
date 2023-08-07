@@ -1,1 +1,1 @@
-##DHT-based system using Chord Algorithm
+DHT-based system using Chord Algorithm
